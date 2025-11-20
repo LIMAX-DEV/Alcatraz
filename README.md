@@ -23,3 +23,32 @@
 - Manipulação de Contexto - Exploração de contexto
 
 - Ataques em Múltiplas Etapas - Ataques em cadeia complexos
+
+# ⚠️ ISENÇÃO DE RESPONSABILIDADE
+AVISO LEGAL IMPORTANTE
+
+- Este repositório e todo o seu conteúdo são fornecidos EXCLUSIVAMENTE PARA FINS EDUCACIONAIS E DE PESQUISA. As técnicas e informações aqui contidas destinam-se apenas para:
+
+- Pesquisa acadêmica sobre segurança e alinhamento de IA
+
+- Testes éticos de segurança em ambientes controlados
+
+- Desenvolvimento de sistemas defensivos de IA
+
+- Estudo de limitações e vulnerabilidades em modelos de linguagem
+
+# 🚫 USOS PROIBIDOS
+
+❌ Qualquer tipo de atividade ilegal
+
+❌ Violar termos de serviço de provedores de IA
+
+❌ Ataques maliciosos a sistemas de IA
+
+❌ Gerar conteúdo prejudicial, ilegal ou restrito
+
+❌ Exploração comercial de vulnerabilidades
+
+❌ Testes não autorizados em sistemas em produção
+
+❌ Burlar sistemas de segurança de forma mal-intencionada
